@@ -1,0 +1,6 @@
+@media (max-width:920px)
+{
+    .whyus{
+        flex-direction: column;
+    }
+}
